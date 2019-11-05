@@ -1,4 +1,4 @@
-package com.quinnox.jdbc;
+
 
 import java.sql.*;
 import java.util.Scanner;
